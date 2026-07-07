@@ -14,4 +14,4 @@ def study_assistant(user_prompt):
   return response
 
 output = study_assistant("Explain Generative AI")
-print(output.text)
+print(output)
