@@ -1,2 +1,3 @@
 ipykernel 
-pydantic
+pydantic 
+sqlite3
