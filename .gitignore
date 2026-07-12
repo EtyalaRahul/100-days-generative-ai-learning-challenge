@@ -10,3 +10,6 @@ wheels/
 .venv 
 .env
 /authentication
+/faiss_index
+*.faiss
+*.pkl

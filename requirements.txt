@@ -1,7 +1,12 @@
 python-dotenv
 pydantic 
 langchain 
-langchain_community 
+langchain-community 
 pypdf 
 langchain-text-splitters
-langchain-openai
+langchain-openai 
+sentence-transformers
+langchain_huggingface
+tqdm 
+faiss-cpu
+langchain-ollama
