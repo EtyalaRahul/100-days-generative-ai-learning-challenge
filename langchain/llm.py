@@ -5,8 +5,8 @@ import os
 load_dotenv()
 
 llm = ChatOpenAI(
-    model="openai/gpt-5.6-sol",   # or any model available on AICredits
-    api_key=os.getenv("AICREDITS_API_KEY"),
+    model="openai/gpt-4o",   # or any model available on AICredits
+    api_key=os.getenv("OPENAI_API_KEY"),
     base_url="https://api.aicredits.in/v1",
     temperature=0
 )
