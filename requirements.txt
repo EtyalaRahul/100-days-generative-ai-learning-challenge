@@ -13,3 +13,6 @@ langchain-ollama
 langchain_chroma 
 chromadb 
 langchain_openai
+beautifulsoup4
+langchain.chains
+streamlit
