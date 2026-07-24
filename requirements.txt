@@ -3,4 +3,8 @@ python-dotenv
 langchain-openai 
 beautifulsoup4 
 langchain-community 
-faiss-cpu
+faiss-cpu 
+langchain-groq 
+fastapi 
+uvicorn 
+langserve
